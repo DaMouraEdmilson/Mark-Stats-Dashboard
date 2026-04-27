@@ -28,7 +28,7 @@
 - Production-grade pipeline (idempotent, logged, validated)
 
 ### Files
-- `01_market_stats_dashboard.py` ← Main pipeline (this is the core file)
+* `01_market_stats_dashboard.py` ← Main pipeline (this is the core file)
 
 ### Screenshots
 *(Add 2–4 screenshots here of the Sigma dashboard and Genie Spaces once you upload them)*
